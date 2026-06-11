@@ -2,11 +2,23 @@
 
 HTML tabanlı kişisel web sayfası çalışması.
 
-## Öne Çıkanlar
+## Bu Repo Ne İçin Var?
+Kişisel web sayfası tasarlama ve HTML/CSS pratiği yapmak için oluşturuldu.
+
+Bu README'nin amacı; repoya ilk kez gelen birinin projenin neden açıldığını, içinde ne bulunduğunu ve nereden başlaması gerektiğini hızlıca anlamasını sağlamaktır.
+
+## İçerik ve Kapsam
+Bu repoda öne çıkan içerikler şunlardır:
 - Statik HTML sayfa
 - Kişisel web tasarım pratiği
 - GitHub Pages benzeri ortamlara kolayca taşınabilir yapı
-- Kullanılan ana teknolojiler: HTML
+- Tarayıcıda incelenebilen HTML arayüz dosyaları
+
+## Kimler İçin Faydalı?
+Frontend/web geliştirme pratiği yapmak, arayüz yapısını incelemek veya projeyi kişiselleştirmek isteyenler için uygundur.
+
+## Kullanılan Teknolojiler
+- HTML
 
 ## Çalıştırma
 ```bash
